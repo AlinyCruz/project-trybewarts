@@ -21,4 +21,9 @@
 
 .corpo {
   display: flex;
+  justify-content: space-between;
+}
+
+#trybewarts-forms-logo {
+    height: 500px;  
 }
