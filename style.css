@@ -31,3 +31,8 @@
 .nomes , .home {
   display: flex;
 }
+
+.avaliacao {
+  display: flex;
+  justify-content: space-between;
+}
