@@ -1,12 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap');
+
 * {
   margin: 0;
-  padding: 0;
+  font-family: 'Lobster', cursive, 'Pacifico', cursive;
 }
 
 .header {
   display: flex;
   background-color: rgb(50, 167, 145);
   justify-content: space-between;
+  padding: 10px;
+}
+
+main {
+  font-size: 20px;
+  margin-left: 100px;
+}
+
+h1 {
+  color: white;
+  padding-top: 4px;
+  font-size: 45px;
 }
 
 .trybewarts-login {
@@ -28,11 +42,53 @@
   height: 500px;
 }
 
-.nomes , .home {
+.nomes, .home{
   display: flex;
 }
 
 .avaliacao {
   display: flex;
   justify-content: space-between;
+}
+
+#counter {
+  font-size: 18px;
+  align-self: flex-end;
+}
+
+.trybewarts-header-logo {
+  width: 50px;
+}
+
+.entrar-btn {
+  height: 25px;
+  width: 120px;
+  border-radius: 5px;
+  align-self: center;
+}
+
+.email, .senha {
+  height: 25px;
+  border-radius: 5px;
+  align-self: center;
+}
+
+footer {
+  background-color: rgb(50, 167, 145);
+  text-align: center;
+  height: 60px;
+  margin-top: 15px;
+  color: white;
+  padding-top: 20px;
+  font-size: 25px;
+}
+
+#submit-btn {
+  height: 25px;
+  border-radius: 5px;
+}
+
+#input-name, #input-lastname, #input-email {
+  width: 300px;
+  height: 20px;
 }
