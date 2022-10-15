@@ -2,7 +2,6 @@
 
 * {
   margin: 0;
-  font-family: 'Lobster', cursive;
   font-family: 'Pacifico', cursive;
 }
 
@@ -95,11 +94,10 @@ footer {
 }
 
 
-@media (max-width:500px) {
-  
+@media ( max-width:500px ) {
+
   main {
     display: flex;
-    width: auto;
     padding: 0;
     margin: 4px;
     width: 100%;

@@ -35,14 +35,3 @@ function contandoCaracteres() {
 }
 
 texto.addEventListener('keyup', contandoCaracteres);
-
-// const nome = document.getElementById('input-name');
-// const sobrenome = document.getElementById('input-lastname');
-// const email = document.getElementById('input-email');
-// let casa = document.getElementById('house');
-
-
-// display: none;
-
-
-
