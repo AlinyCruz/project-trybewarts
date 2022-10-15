@@ -2,7 +2,8 @@
 
 * {
   margin: 0;
-  font-family: 'Lobster', cursive, 'Pacifico', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Pacifico', cursive;
 }
 
 .header {
@@ -42,7 +43,7 @@ h1 {
   height: 500px;
 }
 
-.nomes, .home{
+.nomes, .home {
   display: flex;
 }
 
@@ -94,8 +95,8 @@ footer {
 }
 
 
-@media (max-width:500px){
-
+@media (max-width:500px) {
+  
   main {
     display: flex;
     width: auto;
