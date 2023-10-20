@@ -39,21 +39,21 @@ Pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="font-family: Franklin Gothic Medium, sans-serif;">
       <a href="https://github.com/GiovannaSDJ">
-        <img src="https://avatars.githubusercontent.com/u/111556435?v=4" width="100px;" alt="Foto de Giovanna no GitHub" style="border-radius:50px;"/><br>
+        <img src="https://avatars.githubusercontent.com/u/111556435?v=4" width="100px;" alt="Foto de Giovanna no GitHub" style="border-radius:50%;"/><br>
         <sub>
-          <b style="font-size:18px;">Giovanna Sousa</b>
+          <b style="font-size:15px;">Giovanna Sousa</b>
         </sub>
       </a>
     </td>
       </a>
     </td>
-     <td align="center">
+     <td align="center" style="font-family: Franklin Gothic Medium, sans-serif;">
       <a href="https://github.com/AlinyCruz">
-        <img src="https://avatars.githubusercontent.com/u/108740455?v=4" width="100px;" alt="Foto de Aline no GitHub" style="border-radius:50px;"/><br>
+        <img src="https://avatars.githubusercontent.com/u/108740455?v=4" width="100px;" alt="Foto de Aline no GitHub" style="border-radius:50%;"/><br>
         <sub>
-          <b style="font-size:18px;">Aline Cruz</b>
+          <b style="font-size:15px;">Aline Cruz</b>
         </sub>
       </a>
     </td>
